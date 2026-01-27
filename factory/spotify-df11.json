@@ -1,0 +1,9 @@
+{
+	"name": "spotify-df11",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e9eece4-af95-4367-b38a-2e05cf3979fe",
+		"tenantId": "95fdc76d-8ea9-4638-991d-fb263651110e"
+	}
+}
